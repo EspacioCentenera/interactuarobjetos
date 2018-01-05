@@ -1,11 +1,11 @@
 title: Interactuar Objetos
 desctiption: Interactuar Objetos es un sitio donde encontrar eso que buscabas, objetos hechos a manos y con amor.
-url: https://espaciocentenera.github.io/interactuarobjetos/
+url: https://espaciocentenera.github.io/interactuarobjetos
 permalink: ':title/'
 
 markdown: kramdown
 baseurl: "/"
-full-version: "https://espaciocentenera.github.io/interactuarobjetos/"
+full-version: "https://espaciocentenera.github.io/interactuarobjetos"
 
 sass:
     style: compressed
