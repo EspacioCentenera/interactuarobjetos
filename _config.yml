@@ -44,7 +44,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://espaciocentenera.github.io/interactuarobjetos/" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url:
+facebook_url: https://www.facebook.com/fuegoazulobjetos/
 github_url:
 googleplus_url:
 instagram_url:
@@ -69,8 +69,8 @@ collections: [sections]
 # or "master" otherwise
 safe: False
 lsi: False
-username: alvarmaciel
-repo: jasper2
+username: espaciocentenera
+repo: interactuarobjetos
 branch: master
 relative_source: ../
 destination: ../interactuar/
