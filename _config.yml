@@ -44,7 +44,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://espaciocentenera.github.io/interactuarobjetos/" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url: https://www.facebook.com/fuegoazulobjetos/
+facebook_url: https://www.facebook.com/fuegoazulobjetos
 github_url:
 googleplus_url:
 instagram_url:
@@ -74,7 +74,7 @@ repo: interactuarobjetos
 branch: master
 relative_source: ../
 destination: ../interactuar/
-production_url:  https://espaciocentenera.github.io/interactuarobjetos/
+production_url:  https://espaciocentenera.github.io/interactuarobjetos
 source_url:  https://github.com/EspacioCentenera/interactuarobjetos
 
 exclude:
