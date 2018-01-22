@@ -46,7 +46,15 @@ gallery:
   galleries:
     tatami:
       best_image: tatami1.jpg  # The image to show on the gallery index page. Defaults to the last image.
-      hidden: true
+      
+    backlight:
+      best_image: backlight1.png  # The image to show on the gallery index page. Defaults to the last image.
+      
+    recuperada:
+      best_image: recuperada1.jpg
+      
+    marupa:
+      best_image: marupa1.jpg
     #japan_trip:
      # best_image: IMG_0690.JPG
      # name: "日本の旅"       # Defaults to directory name, replacing _ with spaces & capitalizing words.

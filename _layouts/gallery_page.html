@@ -18,6 +18,7 @@ hide: true
   max-height: 100%;
   max-width: 100%;
 }
+<div id="main">
 </style>
 <h1><a href="/{{ site.gallery.dir }}">{{ page.title }}</a></h1>
 <hr />
@@ -29,3 +30,22 @@ hide: true
         </a>
     </div>
 {% endfor %}
+
+
+
+</div>
+
+
+
+<form method="post" action="https://formspree.io/{{ site.email }}">
+  <div class="row">
+    <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Nombre" /></div>
+    <div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
+    <div class="12u$">
+      <textarea name="message" placeholder="Mensaje"></textarea>
+    </div>
+    <div class="12u$">
+      <input type="submit" value="Enviar Message" />
+    </div>
+  </div>
+</form>
